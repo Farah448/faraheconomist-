@@ -1,3 +1,7 @@
+..... i was doing randomization for qualitative work  .........
+
+clear all
+set more off
 
 import excel "C:\Users\abubakar.farah_gived\Documents\Month6&9 qualitative work.xlsx", sheet("Sheet1") firstrow clear
 tab ParentGeographicLevelName
